@@ -12,8 +12,6 @@ Currently, our primary focus is contributions to:
 
 Find all of our current projects at [openwebdocs/project](https://github.com/openwebdocs/project).
 
-You can sponsor us on GitHub or on our [Open Collective](https://opencollective.com/open-web-docs).
+You can sponsor us on [GitHub](https://github.com/sponsors/openwebdocs) or on our [Open Collective](https://opencollective.com/open-web-docs).
 
 We're on mastodon! [@OpenWebDocs](https://front-end.social/@OpenWebDocs)
-
-<iframe src="https://github.com/sponsors/openwebdocs/card" title="Sponsor openwebdocs" height="225" width="600" style="border: 0;"></iframe>
